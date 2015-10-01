@@ -7,7 +7,6 @@ If user is notified an alert he can exercise according to
 predefined exercise video.
 In the way the app lets people exercise.
 Original app on Store: https://itunes.apple.com/us/app/standapp/id541403079?mt=8
-
-Mr Lyonel(lyonel.douge@gmail.com) suggested this idea.
-
-![Example](https://www.youtube.com/watch?v=5j1RCys4R0g)
+Mr Lyonel(lyonel.douge@gmail.com) created this idea.
+Developers address: juseman_jso@hotmail.com, topurosevich@gmail.com
+Please have good fitness and healthy.

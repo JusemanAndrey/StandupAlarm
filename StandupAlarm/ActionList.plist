@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>groupTitle</key>
+		<string>exercise</string>
+		<key>actionList</key>
+		<array>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Ankle Stretch</string>
+				<key>actionFile</key>
+				<string>ankle stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Back Stretch</string>
+				<key>actionFile</key>
+				<string>back stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Calf Raises</string>
+				<key>actionFile</key>
+				<string>calf raises</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>3.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Calf Stretch</string>
+				<key>actionFile</key>
+				<string>calf stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>3.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Chest Stretch</string>
+				<key>actionFile</key>
+				<string>chest stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:13</string>
+				<key>actionTitle</key>
+				<string>Coffee Break</string>
+				<key>actionFile</key>
+				<string>coffee break</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Desk Pushup</string>
+				<key>actionFile</key>
+				<string>desk pushup</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6.8</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:19</string>
+				<key>actionTitle</key>
+				<string>Eye Strain</string>
+				<key>actionFile</key>
+				<string>eye strain</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Front to Back Neck Stretch</string>
+				<key>actionFile</key>
+				<string>front to back neck stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:17</string>
+				<key>actionTitle</key>
+				<string>Get Loose</string>
+				<key>actionFile</key>
+				<string>get loose</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Inner Thigh Stretch</string>
+				<key>actionFile</key>
+				<string>inner thigh stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:26</string>
+				<key>actionTitle</key>
+				<string>Leg Lifts</string>
+				<key>actionFile</key>
+				<string>leg lifts</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Leg Stretch</string>
+				<key>actionFile</key>
+				<string>leg stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:28</string>
+				<key>actionTitle</key>
+				<string>Leg Swing</string>
+				<key>actionFile</key>
+				<string>leg swing</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Lunges</string>
+				<key>actionFile</key>
+				<string>lunges</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6.8</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Neck Roll</string>
+				<key>actionFile</key>
+				<string>neck roll</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:14</string>
+				<key>actionTitle</key>
+				<string>Personal Call</string>
+				<key>actionFile</key>
+				<string>personal call</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:26</string>
+				<key>actionTitle</key>
+				<string>Quad Stretch</string>
+				<key>actionFile</key>
+				<string>quad stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>3.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Shoulder Stretch</string>
+				<key>actionFile</key>
+				<string>shoulder stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>3.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Side to Side Neck Stretch</string>
+				<key>actionFile</key>
+				<string>side to side neck stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:18</string>
+				<key>actionTitle</key>
+				<string>Social Break</string>
+				<key>actionFile</key>
+				<string>social break</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Squat</string>
+				<key>actionFile</key>
+				<string>squat</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Toe Touch</string>
+				<key>actionFile</key>
+				<string>toe touch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:20</string>
+				<key>actionTitle</key>
+				<string>Overhead Triceps Stretch</string>
+				<key>actionFile</key>
+				<string>triceps stretch</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>3.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Trunk Twist</string>
+				<key>actionFile</key>
+				<string>trunk twist</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:13</string>
+				<key>actionTitle</key>
+				<string>Walking Break</string>
+				<key>actionFile</key>
+				<string>walking break</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4.5</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Wall Pushup</string>
+				<key>actionFile</key>
+				<string>wall pushup</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:23</string>
+				<key>actionTitle</key>
+				<string>Wall Squats</string>
+				<key>actionFile</key>
+				<string>wall squats</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>6</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:20</string>
+				<key>actionTitle</key>
+				<string>Water Bottle Exercise</string>
+				<key>actionFile</key>
+				<string>water bottle exercise</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>4</real>
+			</dict>
+			<dict>
+				<key>duration</key>
+				<string>00:13</string>
+				<key>actionTitle</key>
+				<string>Water Break</string>
+				<key>actionFile</key>
+				<string>water break</string>
+				<key>actionTime</key>
+				<integer>5</integer>
+				<key>pauseTime</key>
+				<integer>3</integer>
+				<key>actionEnabled</key>
+				<true/>
+				<key>actionQueue</key>
+				<true/>
+				<key>caloriesMET</key>
+				<real>2.5</real>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

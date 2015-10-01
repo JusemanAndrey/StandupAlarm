@@ -1,5 +1,5 @@
 # StandupAlarm
-StandupAlasr app helps people to be healthy.
+StandupAlarm app helps people to be healthy.
 I am updating the App.
 It lets people exercise periodically e.g every 15 minutes.
 There are two ways for alarm, one weekly and other hourly.

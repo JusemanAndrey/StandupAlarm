@@ -10,4 +10,4 @@ Original app on Store: https://itunes.apple.com/us/app/standapp/id541403079?mt=8
 
 Mr Lyonel(lyonel.douge@gmail.com) suggested this idea.
 
-[!hhhh](https://www.dropbox.com/sh/xb3zleksu1z3c9c/AACg4A9-2oYayTGwotZ1Fv4xa?dl=0)
+![hhhh](https://www.dropbox.com/sh/xb3zleksu1z3c9c/AACg4A9-2oYayTGwotZ1Fv4xa?dl=0)
